@@ -59,4 +59,4 @@ B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learn
 📍 **Location**: Nandyal, Andhra Pradesh, India  
 🔗 **LinkedIn**: [https://www.linkedin.com/in/lingalaanusha]  
 🐙 **GitHub**: [https://www.github.com/lingala-anusha]  
-🌐 **Portfolio**:[https://lingalaanushaportfolio.netlify.app/]
+🌐 **Portfolio**: [https://lingalaanushaportfolio.netlify.app/]
