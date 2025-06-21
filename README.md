@@ -57,7 +57,7 @@ B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learn
 📧 **Email**: [lingalaanusha598@gmail.com](mailto:lingalaanusha598@gmail.com)  
 📱 **Phone**: +91 9392098732  
 📍 **Location**: Nandyal, Andhra Pradesh, India  
-📄 **Resume**: ![Resume](https://drive.google.com/file/d/1oDF2N1vS2x8pW6eTo-wKhJJoHBGftluS/view?usp=sharing)
+📄 **Resume**: [https://drive.google.com/file/d/1oDF2N1vS2x8pW6eTo-wKhJJoHBGftluS/view?usp=sharing]
 🔗 **LinkedIn**: [https://www.linkedin.com/in/lingalaanusha]  
 🐙 **GitHub**: [https://www.github.com/lingala-anusha]  
 🌐 **Portfolio**: [https://lingalaanushaportfolio.netlify.app/]
