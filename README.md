@@ -1,4 +1,4 @@
-# Hello👋😊!This is LINGALA ANUSHA
+# Hello👋😊! This is LINGALA ANUSHA
 ## AI/ML Enthusiast | Web Developer | Problem Solver
 ## 👩‍💻 Professional Summary  
 B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning) student with a **solid grasp** of AI/ML concepts and a **passion for robotics** 🚀. Skilled in **Front-end Web Development** and proficient in **Data Structures & Algorithms**. Demonstrated ability to develop **AI-driven solutions** for real-world challenges through hands-on projects. Adaptable, **quick learner**, and excellent team player with strong communication skills, always eager to **enhance and grow** in my career.  
