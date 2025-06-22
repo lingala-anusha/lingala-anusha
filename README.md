@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LINGALA ANUSHA</h1>
-<h3 align="center"> AI/ML Enthusiast | Front-end Web Developer | Problem Solver</h3>
+<h3 align="center">🔬 AI/ML Enthusiast | 🎨 **Front-End Developer | 🧩 Problem Solver</h3>
 
 ## 👩‍💻 Professional Summary  
 B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning) student with a **solid grasp** of AI/ML concepts and a **passion for robotics** 🚀. Skilled in **Front-end Web Development** and proficient in **Data Structures & Algorithms**. Demonstrated ability to develop **AI-driven solutions** for real-world challenges through hands-on projects. Adaptable, **quick learner**, and excellent team player with strong communication skills, always eager to **enhance and grow** in my career.  
