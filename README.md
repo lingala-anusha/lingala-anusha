@@ -60,6 +60,8 @@ B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learn
 <p align="left">
 <a href="https://linkedin.com/in/lingalaanusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lingalaanusha" height="30" width="40" /></a>
 <a href="https://github.com/lingala-anusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lingala-anusha" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1ndlOP9AnKg1DV9doAMt75WzsIwyzXrhZ/view?usp=sharing" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scribd.svg" alt="Resume" height="30" width="40" /></a>
+<a href="https://lingalaanushaportfolio.netlify.app/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
