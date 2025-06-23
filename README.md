@@ -46,8 +46,7 @@ B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learn
 ### 🤖 **Machine Learning Projects**  
 #### **Credit Card Fraud Detection**  
 🔹 **Technologies**: Python, Pandas, NumPy, Scikit-learn, Isolation Forest  
-🔹 Developed an ML-based system to detect fraudulent transactions with **high accuracy**. 
-🔹 Applied data preprocessing and trained models on real-world datasets.     
+🔹 Developed an ML-based system to detect fraudulent transactions with **high accuracy**.    
 - 🔗[LINK](https://github.com/lingala-anusha/Credit-Card-Fraud-Detection) 🚀🌐[LIVE DEMO](https://drive.google.com/file/d/1MoiLI23k6uIi51KBFyWVQGZDS-M6ywwy/view?usp=sharing)
 
 #### **Face Recognition System**  
