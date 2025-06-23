@@ -46,28 +46,25 @@ B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learn
 ### 🤖 **Machine Learning Projects**  
 #### **Credit Card Fraud Detection**  
 🔹 **Technologies**: Python, Pandas, NumPy, Scikit-learn, Isolation Forest  
-🔹 Developed an ML-based system to detect fraudulent transactions with **high accuracy**. Applied data preprocessing and trained models on real-world datasets.     
-
+🔹 Developed an ML-based system to detect fraudulent transactions with **high accuracy**. 
+🔹 Applied data preprocessing and trained models on real-world datasets.     
 - 🔗[LINK](https://github.com/lingala-anusha/Credit-Card-Fraud-Detection) 🚀🌐[LIVE DEMO](https://drive.google.com/file/d/1MoiLI23k6uIi51KBFyWVQGZDS-M6ywwy/view?usp=sharing)
 
 #### **Face Recognition System**  
 🔹 **Technologies**: Python, OpenCV, Haar Cascade  
 🔹 Built a **real-time face detection** system using computer vision techniques to identify faces in video streams. 
- 
  - 🔗[LINK](https://github.com/lingala-anusha/Face-Recognition) 🚀🌐[LIVE DEMO](https://drive.google.com/file/d/1fuUrIiAWkfaYtQxGYAl5tesNJF2naEFI/view?usp=sharing)
 
 ### 🌐 **Web Development Projects**  
 #### **Expense Tracker**  
 🔹 **Technologies**: HTML, CSS, JavaScript  
 🔹 Created a **responsive** expense tracker with dynamic categorization, local storage, and interactive dashboard visualizations. 
- 
  - 🔗[LINK](https://github.com/lingala-anusha/Expenses-Tracker) 🚀🌐[LIVE DEMO](https://expensestrackern.netlify.app/)
 
 #### **Country Guide App**  
 🔹 **Technologies**: HTML, CSS, JavaScript  
 🔹 Developed an app to display country details (flag, currency, capital, population) for quick travel reference. 
-
- - 🔗[LINK](https://github.com/lingala-anusha/Country-Guide-App) 🚀🌐[LIVE DEMO](https://countryguideappn.netlify.app/) 
+- 🔗[LINK](https://github.com/lingala-anusha/Country-Guide-App) 🚀🌐[LIVE DEMO](https://countryguideappn.netlify.app/) 
 
 ---
 
