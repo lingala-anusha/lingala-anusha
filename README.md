@@ -7,7 +7,7 @@ Final year B.Tech Computer Science and Engineering (Artificial Intelligence & Ma
 
 ## 🎓 Education  
 **Rajeev Gandhi Memorial College Of Engineering & Technology**, Nandyal, Andhra Pradesh  
-- **B.Tech in CSE (AI&ML)** | CGPA: **7.00** | *2022-2026*  
+- **B.Tech in CSE (AI&ML)** | CGPA: **6.19** | *2022-2026*  
 
 **Rao's Junior College**, Srinivasa Nagar, Nandyal, Andhra Pradesh  
 - **XII-Standard (MPC)** | CGPA: **4.63** | *2020-2022*  
